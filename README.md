@@ -8,7 +8,7 @@ To visualize my findings, I used a PivotTable and a line chart.
 
 ### Purpose
 
-The goal is to look at how Louise's play "Fever" relates to the different campaigns, as well as the monthly trend in Project Launch Dates throughout time. Whether or not the "Launch Date" & "Funding Goals" are relevant, and whether they influenc the project's Outcome - "Successful," "Failed," or "Canceled." 
+The goal is to look at how Louise's play "Fever" relates to the different campaigns, as well as the monthly trend in Project Launch Dates throughout time. Whether or not the "Launch Date" & "Funding Goals" are relevant, and whether they influence the project's Outcome - "Successful," "Failed," or "Canceled." 
 
 
 ## Analysis and Challenges
